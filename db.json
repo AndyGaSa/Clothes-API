@@ -3,8 +3,8 @@
         {
             "id": 0,
             "name": "Frisbee Tee Orange",
-            "image-front": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/FrisbeeTeeOrange_1500x.jpg",
-            "image-back": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/FrisbeeTeeOrange2_1500x.jpg",
+            "imageFront": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/FrisbeeTeeOrange_1500x.jpg",
+            "imageBack": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/FrisbeeTeeOrange2_1500x.jpg",
             "description": 
             [
               {
@@ -17,8 +17,8 @@
           },{
             "id": 1,
             "name": "Telefonica Tee",
-            "image-front": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_telefonicatee_grey1_1500x.jpg",
-            "image-back": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_telefonicatee_grey2_1500x.jpg",
+            "imageFront": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_telefonicatee_grey1_1500x.jpg",
+            "imageBack": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_telefonicatee_grey2_1500x.jpg",
             "description": 
             [
               {
@@ -32,8 +32,8 @@
           },{
             "id": 2,
             "name": "Chineseman Tee",
-            "image-front": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/Chineseman_black1_1500x.jpg",
-            "image-back": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/Chineseman_black2_1500x.jpg",
+            "imageFront": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/Chineseman_black1_1500x.jpg",
+            "imageBack": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/Chineseman_black2_1500x.jpg",
             "description": 
             {
               "1": "Screenprinted human acupuncture point chart",
@@ -43,8 +43,8 @@
           },{
             "id": 3,
             "name": "Nails Beauty Tee",
-            "image-front": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/SSSTUFFF_NAILSTEE_WHITE1_2_1500x.jpg",
-            "image-back": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/NailsBeautyTee2_1500x.jpg",
+            "imageFront": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/SSSTUFFF_NAILSTEE_WHITE1_2_1500x.jpg",
+            "imageBack": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/NailsBeautyTee2_1500x.jpg",
             "description": 
             {
               "1": "Silicone gel Screenprinted(All the shiny parts: Letters; Outline; Icons)",
@@ -57,8 +57,8 @@
         {
             "id": 0,
             "name": "Scratch Hoodie",
-            "image-front": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/Front1_1500x.png",
-            "image-back": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/SSSTUFFF_SCRATCHHOOD_BLACK1_1500x.jpg",
+            "imageFront": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/Front1_1500x.png",
+            "imageBack": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/SSSTUFFF_SCRATCHHOOD_BLACK1_1500x.jpg",
             "description": 
             {
               "1": "100% cotton Brushed terry sweatshirt",
@@ -68,8 +68,8 @@
           },{
             "id": 1,
             "name": "Water Hoodie",
-            "image-front": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_waterhoodie_blue10_1500x.jpg",
-            "image-back": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_waterhoodie_blue4_1_1500x.jpg",
+            "imageFront": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_waterhoodie_blue10_1500x.jpg",
+            "imageBack": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_waterhoodie_blue4_1_1500x.jpg",
             "description": 
             {
               "1": "100% cotton Brushed terry sweatshirt"
@@ -77,8 +77,8 @@
           },{
             "id": 2,
             "name": "Telephone Hoodie",
-            "image-front": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_telephonehoodie_grey1_4aa6dc1d-576a-4ecd-8fe1-9b9b037dae1f_1500x.png",
-            "image-back": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_telephonehoodie_grey2_1500x.jpg",
+            "imageFront": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_telephonehoodie_grey1_4aa6dc1d-576a-4ecd-8fe1-9b9b037dae1f_1500x.png",
+            "imageBack": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_telephonehoodie_grey2_1500x.jpg",
             "description": 
             {
               "1": "Inspired by the telephone booth",
@@ -91,8 +91,8 @@
           },{
             "id": 3,
             "name": "Telefonica Hoodie",
-            "image-front": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_telefonicahood_brown1_1500x.jpg",
-            "image-back": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_telefonicahood_brown2_1500x.png",
+            "imageFront": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_telefonicahood_brown1_1500x.jpg",
+            "imageBack": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_telefonicahood_brown2_1500x.png",
             "description": 
             {
               "1": "Inspired by the telephone booth",
@@ -108,8 +108,8 @@
         {
             "id": 0,
             "name": "Lila Jean Shorts",
-            "image-front": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_shorts_lila3_1500x.jpg",
-            "image-back": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_shorts_lila3_1500x.jpg",
+            "imageFront": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_shorts_lila3_1500x.jpg",
+            "imageBack": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_shorts_lila3_1500x.jpg",
             "description": [
                 {
                   "1": "No tissue paper inside.",
@@ -122,8 +122,8 @@
           },{
             "id": 1,
             "name": "Panda Cha Shorts",
-            "image-front": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/4_d20112dc-13ad-4b37-a558-4282e6ef4c87_1500x.jpg",
-            "image-back": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_shorts_blue2_1500x.jpg",
+            "imageFront": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/4_d20112dc-13ad-4b37-a558-4282e6ef4c87_1500x.jpg",
+            "imageBack": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_shorts_blue2_1500x.jpg",
             "description": [
                 {
                   "1": "UV Reactive effect in front",
@@ -134,8 +134,8 @@
           },{
             "id": 2,
             "name": "Orange Country Shorts",
-            "image-front": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/12_25104aa2-ab7a-4036-93cf-bcbe0b8e193b_1500x.jpg",
-            "image-back": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_shorts_orange2_1500x.jpg",
+            "imageFront": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/12_25104aa2-ab7a-4036-93cf-bcbe0b8e193b_1500x.jpg",
+            "imageBack": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_shorts_orange2_1500x.jpg",
             "description": [
                 {
                   "1": "Every shorts comes with a KOINOBORI frisbee",
@@ -148,8 +148,8 @@
           },{
             "id": 3,
             "name": "Acupuntura Shorts ",
-            "image-front": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/bermuda_black1_1500x.jpg",
-            "image-back": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/bermuda_black2_1500x.jpg",
+            "imageFront": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/bermuda_black1_1500x.jpg",
+            "imageBack": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/bermuda_black2_1500x.jpg",
             "description": [
                 {
                   "1": "Embroidered human acupuncture point chart on the left side",
@@ -164,8 +164,8 @@
         {
             "id": 0,
             "name": "Summer Fan",
-            "image-front": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/18_ffe73e00-1d7a-4e4d-a72b-3d768b94f0d8_1500x.jpg",
-            "image-back": "undefined",
+            "imageFront": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/18_ffe73e00-1d7a-4e4d-a72b-3d768b94f0d8_1500x.jpg",
+            "imageBack": "undefined",
             "video": "https://www.youtube.com/watch?v=LhT0I5nW_9g&t=16s",
             "description": [
                 {
@@ -181,8 +181,8 @@
           },{
             "id": 1,
             "name": "Cleaning Signal",
-            "image-front": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/17_1500x.jpg",
-            "image-back": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/20_44d6db32-5b0c-4d72-890d-985835264c5a_1500x.jpg",
+            "imageFront": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/17_1500x.jpg",
+            "imageBack": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/20_44d6db32-5b0c-4d72-890d-985835264c5a_1500x.jpg",
             "description": [
                 {
                   "1": "60cm x 20/29cm(top/bottom)",
@@ -196,8 +196,8 @@
           },{
             "id": 2,
             "name": "Gakko Backpack",
-            "image-front": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/sssstufff_backpack_green4_37fd8e03-5b60-40f9-b807-617049a464c4_1500x.jpg",
-            "image-back": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/sssstufff_backpack_green2_1500x.jpg",
+            "imageFront": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/sssstufff_backpack_green4_37fd8e03-5b60-40f9-b807-617049a464c4_1500x.jpg",
+            "imageBack": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/sssstufff_backpack_green2_1500x.jpg",
             "description": [
                 {
                   "1": "Inspired by the outfit of the students during Chairman Mao.",
@@ -207,8 +207,8 @@
           },{
             "id": 3,
             "name": "Fan Summer Cap",
-            "image-front": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/20_1500x.jpg",
-            "image-back": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/21_1500x.jpg",
+            "imageFront": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/20_1500x.jpg",
+            "imageBack": "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/21_1500x.jpg",
             "description": [
                 {
                   "1": "Power mode: solar energy",
