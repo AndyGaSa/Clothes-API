@@ -1,8 +1,7 @@
 {
-  "stock":{
-     
+  "stock":{ 
         "clothes":{
-           "t-shirts":[
+           "tShirts":[
               {
                  "id":0,
                  "name":"Frisbee Tee Orange",
@@ -313,6 +312,5 @@
               "priceTag":"https://i.ibb.co/Tbt59m0/pricetag.png",
               "priceStar":"https://i.ibb.co/RpT5LWY/price-Star.png"
            }
-         
-         
-}}
+   }
+}
