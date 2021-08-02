@@ -1,5 +1,5 @@
 {
-  "stock":{
+  "stock":[{
      
         "clothes":{
            "t-shirts":[
@@ -300,10 +300,9 @@
                  ]
               }
            ]
-        }
+        }}
      ,
-        "resources":
-           {
+        {"resources":{
               "shirtsIcon":"https://i.ibb.co/0s6rWGX/camiseta.png",
               "hoodiesIcon":"https://i.ibb.co/7N3cFBp/sudadera.png",
               "trousersIcon":"https://i.ibb.co/0YZwbzf/pantalon.png",
@@ -314,5 +313,6 @@
               "priceTag":"https://i.ibb.co/Tbt59m0/pricetag.png",
               "priceStar":"https://i.ibb.co/RpT5LWY/price-Star.png"
            }
-      }
+         }
+         ]
 }
