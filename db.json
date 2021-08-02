@@ -1,6 +1,6 @@
 {
-  "stock":[
-     {
+  "stock":{
+     
         "clothes":{
            "t-shirts":[
               {
@@ -301,8 +301,8 @@
               }
            ]
         }
-     },
-     {
+     ,
+     
         "resources":[
            {
               "shirtsIcon":"https://i.ibb.co/0s6rWGX/camiseta.png",
@@ -316,6 +316,6 @@
               "priceStar":"https://i.ibb.co/RpT5LWY/price-Star.png"
            }
         ]
-     }
-  ]
+     
+      }
 }
