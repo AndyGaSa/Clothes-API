@@ -131,7 +131,37 @@
                     " If you find sands in the pocket, don't worry, it´s normal...we used a sand wash to get the color...we didn´t wash it at playa... ",
                     "Vintage stone washed"
                  ]
-              }
+              },
+              {
+               "id":4,
+               "name":"Koinobori x Karont 4in1 Self-cut Paisley Knit",
+               "imageFront":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_carpetjersey_black8_1_1500x.jpg?v=1627892934",
+               "imageBack":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_carpetjersey_black1_1500x.jpg?v=1627892934",
+               "price":"295€",
+               "description":[
+                  "Idk how, but we just made this...and it´s really cool, no???",
+                  "Used as a blanket",
+                  "Used as a knit sweater(After cutting)",
+                  "Used as a bennie(After cutting)",
+                  "Used as gloves(size 1,2),Headband(Size 0)(After cutting)",
+                  "45% wool,10%cashmere,25%Viscose,20%",
+                  "Reversible"
+               ]
+            },
+            {
+               "id":5,
+               "name":"Self-cut Water Hoodie",
+               "imageFront":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_waterhoodie_blue5_1_1500x.jpg?v=1627659776",
+               "imageBack":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_waterhoodie_blue10_b5d834aa-d686-4b65-bf54-8eaee98ba282_1500x.jpg?v=1627659778",
+               "price":"185€",
+               "description":[
+                  "The Water relax pack comes with",
+                  "One water hoodie",
+                  "One scissors",
+                  "¨Find Your Paradise Instructions¨",
+                  "WARNING: WE ARE NOT TAKING ANY RESPONSIBILITY FOR A WRONG FOLLOWING OF INSTRUCTIONS"
+               ]
+            }
            ],
            "shorts":[
               {
@@ -176,7 +206,7 @@
               },
               {
                  "id":3,
-                 "name":"Acupuntura Shorts ",
+                 "name":"Acupuntura Shorts",
                  "imageFront":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/bermuda_black1_1500x.jpg",
                  "imageBack":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/bermuda_black2_1500x.jpg",
                  "price":"40€",
@@ -184,9 +214,35 @@
                        "Embroidered human acupuncture point chart on the left side",
                        "100% cotton towel",
                        "Very comfortable my g!",
-                      "True to size"
+                       "True to size"
                  ]
-              }
+              },
+              {
+               "id":4,
+               "name":"Tiger Short Purple",
+               "imageFront":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/tigershorts_undersunshine_1500x.jpg?v=1627660625",
+               "imageBack":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/tigershorts_lilac1_1500x.jpg?v=1627660625",
+               "price":"70€",
+               "description":[
+                     "6 colors of UV reactive embroidery(Change color under sunshine)",
+                     "Every order includes a hoodie and a pillowcase",
+                     "100% cotton 400gsm french terry",
+                     "True to size"
+               ]
+            },
+            {
+               "id":5,
+               "name":"Acupuncture Shorts Beige",
+               "imageFront":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/bermuda_ivory2_1500x.jpg?v=1627635707",
+               "imageBack":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/bermuda_ivory1_1500x.jpg?v=1627635707",
+               "price":"110€",
+               "description":[
+                     "Embroidered human acupuncture point chart on the left side",
+                     "100% cotton towel",
+                     "Very comfortable my g!",
+                     "True to size"
+               ]
+            }
            ],
            "accessories":[
               {
