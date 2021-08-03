@@ -33,7 +33,11 @@
                  "id":2,
                  "name":"Chineseman Tee",
                  "imageFront":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/Chineseman_black1_1500x.jpg",
-                 "imageBack":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/Chineseman_black2_1500x.jpg",
+                 "imageDetails":[
+                 "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/Chineseman_black1_1500x.jpg",
+                 "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/Chineseman_black2_1500x.jpg",
+                 "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/Chineseman_black3_1500x.jpg?v=1627644130",
+                 "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/Chineseman_black5_1500x.jpg?v=1627644130"],
                  "price":"65€",
                  "description":[
                     "Screenprinted human acupuncture point chart",
