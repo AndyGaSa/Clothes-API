@@ -7,6 +7,13 @@
                  "name":"Frisbee Tee Orange",
                  "imageFront":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/FrisbeeTeeOrange_1500x.jpg",
                  "imageBack":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/FrisbeeTeeOrange2_1500x.jpg",
+                 "imageDetails":[
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/FrisbeeTeeOrange_1500x.jpg",
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/FrisbeeTeeOrange2_1500x.jpg",
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/12_1500x.jpg?v=1627645327",
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/FrisbeeTeeOrange4_1500x.jpg?v=1627645327"
+                  
+                 ],
                  "price":"22€",
                  "description":[
                      "Every t-shirt comes with a Koinobori frisbee",
@@ -20,6 +27,12 @@
                  "name":"Telefonica Tee",
                  "imageFront":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_telefonicatee_grey1_1500x.jpg",
                  "imageBack":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_telefonicatee_grey2_1500x.jpg",
+                 "imageDetails":[
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_telefonicatee_grey1_1500x.jpg",
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_telefonicatee_grey2_1500x.jpg",
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_telefonicatee_grey5_1500x.jpg?v=1627660946",
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_telefonicatee_grey7_1500x.jpg?v=1627660946"
+                 ],
                  "price":"48€",
                  "description":[
                        "Embroidery on the front chest (No hole for the coin)",
@@ -50,6 +63,13 @@
                  "name":"Nails Beauty Tee",
                  "imageFront":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/SSSTUFFF_NAILSTEE_WHITE1_2_1500x.jpg",
                  "imageBack":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/NailsBeautyTee2_1500x.jpg",
+                 "imageDetails":[
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/SSSTUFFF_NAILSTEE_WHITE1_2_1500x.jpg",
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/NailsBeautyTee2_1500x.jpg",
+                  "https://ssstufff.com/collections/t-shirt/products/nails-beauty-tee-white",
+                  "https://ssstufff.com/collections/t-shirt/products/nails-beauty-tee-white"
+                  
+                 ],
                  "price":"35€",
                  "description":[
                     "Silicone gel Screenprinted(All the shiny parts: Letters; Outline; Icons)",
@@ -62,6 +82,14 @@
                  "name":"Best Green Tea Tee Vintage Wash Green",
                  "imageFront":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_teatee_green1_1_1500x.jpg?v=1627636552",
                  "imageBack":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/IMG_3894_1500x.jpg?v=1627636552",
+                 "imageDetails":[
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_teatee_green1_1_1500x.jpg?v=1627636552",
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/IMG_3894_1500x.jpg?v=1627636552",
+                  "https://ssstufff.com/collections/t-shirt/products/best-green-tea-tee-vintage-wash-green",
+                  "https://ssstufff.com/collections/t-shirt/products/best-green-tea-tee-vintage-wash-green"
+
+                  
+                 ],
                  "price":"55€",
                  "description":[
                     "We love Green Tea!",
@@ -74,6 +102,13 @@
                  "name":"UK Telephone Booth Tee Vintage Red",
                  "imageFront":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_telefonicatee_pink2_1500x.jpg?v=1627660943",
                  "imageBack":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_telefonicatee_pink1_1500x.jpg?v=1627660943",
+                 "imageDetails":[
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_telefonicatee_pink2_1500x.jpg?v=1627660943",
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_telefonicatee_pink1_1500x.jpg?v=1627660943",
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_telefonicatee_pink6_1500x.jpg?v=1627660943",
+                  "https://ssstufff.com/collections/t-shirt/products/uk-telephone-booth-tee-vintage-red"
+                  
+                 ],
                  "price":"65€",
                  "description":[
                     "Collaboration with our partner ----The Collection London",
@@ -91,6 +126,13 @@
                  "name":"Scratch Hoodie",
                  "imageFront":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/Front1_1500x.png",
                  "imageBack":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/SSSTUFFF_SCRATCHHOOD_BLACK1_1500x.jpg",
+                 "imageDetails":[
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/Front1_1500x.png",
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/SSSTUFFF_SCRATCHHOOD_BLACK1_1500x.jpg",
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/Lotteryhoodie777_1500x.png?v=1627659641",
+                  "https://ssstufff.com/collections/sweaters/products/scratchable-lottery-hoodie-black"
+                  
+                 ],
                  "price":"80€",
                  "description":[
                     "100% cotton Brushed terry sweatshirt",
@@ -103,6 +145,12 @@
                  "name":"Water Hoodie",
                  "imageFront":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_waterhoodie_blue10_1500x.jpg",
                  "imageBack":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_waterhoodie_blue4_1_1500x.jpg",
+                 "imageDetails":[
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_waterhoodie_blue10_1500x.jpg",
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_waterhoodie_blue4_1_1500x.jpg",
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_waterhoodie_blue5_1_1500x.jpg?v=1627659776",
+                  "https://ssstufff.com/collections/sweaters/products/self-cut-water-hoodie"
+                 ],
                  "price":"93€",
                  "description":[ "100% cotton Brushed terry sweatshirt" ]
               },
@@ -111,6 +159,12 @@
                  "name":"Telephone Hoodie",
                  "imageFront":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_telephonehoodie_grey1_4aa6dc1d-576a-4ecd-8fe1-9b9b037dae1f_1500x.png",
                  "imageBack":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_telephonehoodie_grey2_1500x.jpg",
+                 "imageDetails":[
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_telephonehoodie_grey1_4aa6dc1d-576a-4ecd-8fe1-9b9b037dae1f_1500x.png",
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_telephonehoodie_grey2_1500x.jpg",
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_telephonehoodie_grey3_1500x.jpg?v=1627897496",
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_telephonehoodie_grey4_1500x.jpg?v=1627897496"
+                 ],
                  "price":"91€",
                  "description":[
                   "Inspired by the telephone booth",
@@ -126,6 +180,12 @@
                  "name":"Telefonica Hoodie",
                  "imageFront":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_telefonicahood_brown1_1500x.jpg",
                  "imageBack":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_telefonicahood_brown2_1500x.png",
+                 "imageDetails":[
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_telefonicahood_brown1_1500x.jpg",
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_telefonicahood_brown2_1500x.png",
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_telefonicahood_brown4_1500x.jpg?v=1627897359",
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_telefonicahood_brown3_1500x.jpg?v=1627897359"
+                 ],
                  "price":"95€",
                  "description":[
                     "Inspired by the telephone booth",
@@ -141,6 +201,12 @@
                "name":"Koinobori x Karont 4in1",
                "imageFront":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_carpetjersey_black8_1_1500x.jpg?v=1627892934",
                "imageBack":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_carpetjersey_black1_1500x.jpg?v=1627892934",
+               "imageDetails":[
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_carpetjersey_black8_1_1500x.jpg?v=1627892934",
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_carpetjersey_black1_1500x.jpg?v=1627892934",
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_carpetjersey_black4_1500x.jpg?v=1627892934",
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_carpetjersey_black2_1500x.jpg?v=1627892934"
+                 ],
                "price":"295€",
                "description":[
                   "Idk how, but we just made this...and it´s really cool, no???",
@@ -157,6 +223,12 @@
                "name":"Self-cut Water Hoodie",
                "imageFront":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_waterhoodie_blue5_1_1500x.jpg?v=1627659776",
                "imageBack":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_waterhoodie_blue10_b5d834aa-d686-4b65-bf54-8eaee98ba282_1500x.jpg?v=1627659778",
+               "imageDetails":[
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_waterhoodie_blue5_1_1500x.jpg?v=1627659776",
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_waterhoodie_blue10_b5d834aa-d686-4b65-bf54-8eaee98ba282_1500x.jpg?v=1627659778",
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_waterhoodie_blue4_1_1500x.jpg?v=1627659776",
+                  "https://ssstufff.com/collections/sweaters/products/self-cut-water-hoodie"
+                 ],
                "price":"185€",
                "description":[
                   "The Water relax pack comes with",
@@ -173,6 +245,12 @@
                  "name":"Lila Jean Shorts",
                  "imageFront":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_shorts_lila3_1500x.jpg",
                  "imageBack":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_shorts_lila3_1500x.jpg",
+                 "imageDetails":[
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_shorts_lila3_1500x.jpg",
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_shorts_lila2_1500x.jpg?v=1627660697",
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_shorts_lila3_1500x.jpg",
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_shorts_lila5_1500x.jpg?v=1627660697"
+                 ],
                  "price":"45€",
                  "description":[
                        "No tissue paper inside.",
@@ -187,6 +265,13 @@
                  "name":"Panda Cha Shorts",
                  "imageFront":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/4_d20112dc-13ad-4b37-a558-4282e6ef4c87_1500x.jpg",
                  "imageBack":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_shorts_blue2_1500x.jpg",
+                 "imageDetails":[
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/4_d20112dc-13ad-4b37-a558-4282e6ef4c87_1500x.jpg",
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_shorts_blue2_1500x.jpg",
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_shorts_blue3_1500x.jpg?v=1627660620",
+                  "https://ssstufff.com/collections/pants/products/uv-pandacha-bubble-short-bluechange-color"
+
+                 ],
                  "price":"65€",
                  "description":[
                       "UV Reactive effect in front",
@@ -199,6 +284,12 @@
                  "name":"Orange Country Shorts",
                  "imageFront":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/12_25104aa2-ab7a-4036-93cf-bcbe0b8e193b_1500x.jpg",
                  "imageBack":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_shorts_orange2_1500x.jpg",
+                 "imageDetails":[
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/12_25104aa2-ab7a-4036-93cf-bcbe0b8e193b_1500x.jpg",
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_shorts_orange2_1500x.jpg",
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/ssstufff_shorts_orange3_1500x.jpg?v=1627645276",
+                  "https://ssstufff.com/collections/pants/products/frisbee-short-orange"
+                 ],
                  "price":"40€",
                  "description":[
                        "Every shorts comes with a KOINOBORI frisbee",
@@ -213,6 +304,12 @@
                  "name":"Acupuntura Shorts",
                  "imageFront":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/bermuda_black1_1500x.jpg",
                  "imageBack":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/bermuda_black2_1500x.jpg",
+                 "imageDetails":[
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/bermuda_black1_1500x.jpg",
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/bermuda_black2_1500x.jpg",
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/bermuda_black3_1500x.jpg?v=1627635729",
+                  "https://ssstufff.com/collections/pants/products/acupuncture-embroidery-towel-short-black"
+                 ],
                  "price":"40€",
                  "description":[
                        "Embroidered human acupuncture point chart on the left side",
@@ -226,6 +323,12 @@
                "name":"Tiger Short Purple",
                "imageFront":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/tigershorts_undersunshine_1500x.jpg?v=1627660625",
                "imageBack":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/tigershorts_lilac1_1500x.jpg?v=1627660625",
+               "imageDetails":[
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/tigershorts_undersunshine_1500x.jpg?v=1627660625",
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/tigershorts_lilac1_1500x.jpg?v=1627660625",
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/tigershorts_lilac5_1500x.jpg?v=1627660625",
+                  "https://ssstufff.com/collections/pants/products/uv-embroidery-tiger-short-purplechange-color"
+                 ],
                "price":"70€",
                "description":[
                      "6 colors of UV reactive embroidery(Change color under sunshine)",
@@ -239,6 +342,12 @@
                "name":"Acupuncture Shorts Beige",
                "imageFront":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/bermuda_ivory2_1500x.jpg?v=1627635707",
                "imageBack":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/bermuda_ivory1_1500x.jpg?v=1627635707",
+               "imageDetails":[
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/bermuda_ivory2_1500x.jpg?v=1627635707",
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/bermuda_ivory1_1500x.jpg?v=1627635707",
+                  "https://ssstufff.com/collections/pants/products/acupuncture-embroidery-towel-short-beige",
+                  "https://ssstufff.com/collections/pants/products/acupuncture-embroidery-towel-short-beige"
+                 ],
                "price":"110€",
                "description":[
                      "Embroidered human acupuncture point chart on the left side",
