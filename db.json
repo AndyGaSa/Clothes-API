@@ -364,6 +364,10 @@
                  "imageFront":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/18_ffe73e00-1d7a-4e4d-a72b-3d768b94f0d8_1500x.jpg",
                  "imageBack":"undefined",
                  "video":"https://www.youtube.com/watch?v=LhT0I5nW_9g&t=16s",
+                 "imageDetails":[
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/18_ffe73e00-1d7a-4e4d-a72b-3d768b94f0d8_1500x.jpg",
+                  "https://youtu.be/LhT0I5nW_9g"
+                 ],
                  "price":"15€",
                  "description":[
                        "Check the video below",
@@ -380,6 +384,11 @@
                  "name":"Cleaning Signal",
                  "imageFront":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/17_1500x.jpg",
                  "imageBack":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/20_44d6db32-5b0c-4d72-890d-985835264c5a_1500x.jpg",
+                 "imageDetails":[
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/17_1500x.jpg",
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/20_44d6db32-5b0c-4d72-890d-985835264c5a_1500x.jpg",
+
+                 ],
                  "price":"45€",
                  "description":[
                        "60cm x 20/29cm(top/bottom)",
@@ -396,6 +405,10 @@
                  "name":"Gakko Backpack",
                  "imageFront":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/sssstufff_backpack_green4_37fd8e03-5b60-40f9-b807-617049a464c4_1500x.jpg",
                  "imageBack":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/sssstufff_backpack_green2_1500x.jpg",
+                 "imageDetails":[
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/sssstufff_backpack_green4_37fd8e03-5b60-40f9-b807-617049a464c4_1500x.jpg",
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/sssstufff_backpack_green2_1500x.jpg"
+                 ],
                  "price":"25€",
                  "description":[
                     "Inspired by the outfit of the students during Chairman Mao.",
@@ -407,6 +420,12 @@
                  "name":"Fan Summer Cap",
                  "imageFront":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/20_1500x.jpg",
                  "imageBack":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/21_1500x.jpg",
+                 "imageDetails":[
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/20_1500x.jpg",
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/21_1500x.jpg",
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/21_1500x.jpg?v=1627659977",
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/22_1500x.jpg?v=1627659977"
+                 ],
                  "price":"20€",
                  "description":[
                        "Power mode: solar energy",
@@ -421,6 +440,12 @@
                  "name":"Fruits Flodable Plastic Crate",
                  "imageFront":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/18_1500x.jpg?v=1627645362",
                  "imageBack":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/Fruitbox2_1500x.jpg?v=1627645362",
+                 "imageDetails":[
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/18_1500x.jpg?v=1627645362",
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/Fruitbox2_1500x.jpg?v=1627645362",
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/1_c0b58596-7054-4517-83d7-429eac8eb5e8_1500x.jpg?v=1627645362",
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/Fruitbox_1500x.jpg?v=1627645362"
+                 ],
                  "price":"70€",
                  "description":[
                        "60cm x 40cm x 21cm (4cm/folded)",
@@ -435,6 +460,9 @@
                  "name":"Nail Stickersss Pack",
                  "imageFront":"https://cdn.shopify.com/s/files/1/0110/2040/2747/products/STICKERNAILSPACK_1_1500x.jpg?v=1627660072",
                  "imageBack":"undefined",
+                 "imageDetails":[
+                  "https://cdn.shopify.com/s/files/1/0110/2040/2747/products/STICKERNAILSPACK_1_1500x.jpg?v=1627660072"
+                 ],
                  "price":"2€",
                  "description":[
                        "Stickers for nails only",
